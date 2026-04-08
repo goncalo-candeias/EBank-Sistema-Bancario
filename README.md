@@ -16,12 +16,12 @@ Este programa implementa um sistema bancário em Python, permitindo a criação 
 - Histórico de operações  
 - Validação de acesso às contas  
 
-## 📁 Ficheiros
+## Ficheiros
 - conta.py → implementação da classe Conta  
 - ebank.py → implementação da classe EBank  
 - tests.py → testes do sistema (fornecidos pelo professor)  
 
-## ▶️ Como executar
+## Como executar
 1. Verificar se o Python está instalado  
 2. Colocar todos os ficheiros na mesma pasta  
 3. Abrir o terminal nessa pasta  
@@ -29,5 +29,5 @@ Este programa implementa um sistema bancário em Python, permitindo a criação 
 ```
 python tests.py
 ```
-## 👨‍💻 Autor
+## Autor
 Gonçalo Candeias
