@@ -2,7 +2,7 @@
 
 Projeto desenvolvido no âmbito da unidade curricular Programação II.
 
-Este programa implementa um sistema bancário em Python, permitindo a criação e gestão de contas bancárias, bem como a realização de operações financeiras como depósitos, levantamentos e transferências.
+Este programa implementa um **sistema bancário** em Python, permitindo a criação e gestão de contas bancárias, bem como a realização de operações financeiras como depósitos, levantamentos e transferências.
 
 ---
 
