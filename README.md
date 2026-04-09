@@ -19,9 +19,9 @@ Este programa implementa um **sistema bancário** em Python, permitindo a criaç
 ---
 
 ## Ficheiros
-- conta.py → implementação da classe Conta  
-- ebank.py → implementação da classe EBank  
-- tests.py → testes do sistema (fornecidos pelo professor)  
+- `conta.py` → implementação da classe Conta  
+- `ebank.py` → implementação da classe EBank  
+- `tests.py` → testes do sistema (fornecidos pelo professor)  
 
 ---
 
